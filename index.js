@@ -1,19 +1,21 @@
 function shout(string){
   return string.toUpperCase()
+  return ('YES INDEED!')
 }
 
 function whisper(string){
   return string.toLowerCase()
+  return ('I can\'t hear you!')
 }
 
 function logShout(string){
   console.log('HELLO')
-  return ('YES INDEED!')
+  
 }
 
 function logWhisper(string){
   console.log('hello')
-  return ('I can\'t hear you!')
+  
 }
 
 function sayHiToGrandma(string){
