@@ -8,17 +8,9 @@ function whisper(string){
 
 function logShout(string){
   console.log('HELLO')
+  return string('YES INDEED')
 }
 
 function logWhisper(string){
   console.log('hello')
-}
-
-function sayHiToGrandma(string){
-  console.logShout()
-  return('YES INDEED!')
-}
-function sayHiToGrandma(string){
-console.log
-  return('I can\'t hear you!')
 }
