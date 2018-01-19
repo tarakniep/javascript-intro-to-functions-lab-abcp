@@ -1,11 +1,9 @@
 function shout(string){
   return string.toUpperCase()
-  return ('YES INDEED!')
 }
 
 function whisper(string){
   return string.toLowerCase()
-  return ('I can\'t hear you!')
 }
 
 function logShout(string){
