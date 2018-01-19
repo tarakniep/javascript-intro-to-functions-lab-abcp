@@ -19,6 +19,6 @@ function sayHiToGrandma(string){
   return('YES INDEED!')
 }
 function sayHiToGrandma(string){
-console.logWhisper()
+console.log
   return('I can\'t hear you!')
 }
