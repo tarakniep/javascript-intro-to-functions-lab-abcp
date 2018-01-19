@@ -15,10 +15,10 @@ function logWhisper(string){
 }
 
 function sayHiToGrandma(string){
-  logShout()
+  console.logShout()
   return('YES INDEED!')
 }
 function sayHiToGrandma(string){
-logWhisper()
+console.logWhisper()
   return('I can\'t hear you!')
 }
